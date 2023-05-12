@@ -38,4 +38,4 @@ class healNum {
     public static float makeNegative4(float num) {
         return -num;
     }
-}}
+}
